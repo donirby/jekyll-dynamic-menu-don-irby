@@ -1,7 +1,7 @@
 # Site settings
-title: Jekyll Dynamic Menu
+title: Don Irby
 email: donirby@live.com
 description: A dynamically generated hierarchical menu in jekyll without plugins
-baseurl: "/jekyll-dynamic-menu"
-url: "http://donirby.github.io/jekyll-dynamic-menu"
+baseurl: "/jekyll-dynamic-menu-don-irby"
+url: "http://donirby.github.io/jekyll-dynamic-menu-don-irby"
 github_username:  donirby
