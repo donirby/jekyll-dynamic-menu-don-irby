@@ -1,7 +1,5 @@
 1. Create a Remote Repo on Github.
 
-Github project using github pages in a gh-pages branch following instruction in James online course.
-
 2. Connect a Local Development Folder.
 
 i. Navigate to Local Dev Folder.
@@ -11,9 +9,7 @@ iv. Verify Remote Repo Address.
     
 git init
 git status
-git remote add origin https://github.com/donirby/jekyll-dynamic-menu-don-irby.git
-git status
-git remote -v
+git remote add origin https://github.com/donirby/jekyll-dynamic-menu.git
 git status
 
 3. Push the existing repo from the command line to gh-pages branch.
@@ -35,7 +31,7 @@ git push origin gh-pages (for branch) or
 git push origin master (for master)
 git status
 
-Go to Github and verify Remote Repo Branch name gh-pages Content and Site Publish Address under Settings on the gh-pages branch (no master branch).
+Verify Remote Repo Branceh for Content and Site Publish Address under Settings on the gh-pages branch, not master branch.
 
 4. Update Site
 git status
